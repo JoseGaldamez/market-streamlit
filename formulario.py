@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Formulario")
+st.title("Formulario Streamlit")
 
 with st.form("formulario"):
     st.write("Dentro del formulario")
